@@ -1,2 +1,3 @@
-# research
-my research work over on zenodo and figshare
+<div align="center">
+    <img src="./assets/Research.png">
+</div>
